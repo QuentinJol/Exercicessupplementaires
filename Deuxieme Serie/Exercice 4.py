@@ -1,6 +1,8 @@
 # -*- coding: utf8 -*-
 import csv
 
+
+
 i = 0
 genre = "Male"
 fname="MOCK_DATA.csv"
